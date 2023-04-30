@@ -1,0 +1,21 @@
+ho iniziato con il posizionarmi in desktop
+poi md story
+poi 
+notepad chapter1.txt
+git status
+git add chapter1.txt
+git status
+
+  ho inserito (su sue istruzioni) email e name
+git config --global user.email "andreapacez@gmail.com"
+git config --global user.name "Andrea"
+
+  ho inserito il commento
+git commit -m "Initial Commit"
+
+git status
+git log
+
+notepad chapter2.txt     (questo file)
+notepad chapter3.txt
+
